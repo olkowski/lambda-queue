@@ -1,0 +1,12 @@
+POST https://2275hmpbn6pgcq6g6exnrqwbey0zsssb.lambda-url.us-east-1.on.aws/
+Content-Type: application/json
+
+{
+    "descricao": "Teste2",
+    "valor": 200
+}
+
+###
+
+GET https://3llzcgiceq3cxs7wk2nh7vqgy40eeuve.lambda-url.us-east-1.on.aws/
+Accept: application/json

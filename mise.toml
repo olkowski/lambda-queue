@@ -1,0 +1,4 @@
+[tools]
+java = "21"
+maven = "latest"
+quarkus = "latest"

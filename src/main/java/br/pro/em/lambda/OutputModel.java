@@ -1,11 +1,10 @@
-package br.com.fiap.lambda;
+package br.pro.em.lambda;
 
 public class OutputModel {
 
     private String identificador;
-    private String paymentData;
+    private String paymentData; 
     private String messageId;
-
     public String getIdentificador() {
         return identificador;
     }
@@ -32,4 +31,6 @@ public class OutputModel {
         this.messageId = messageId;
         return this;
     }
+    
+    
 }
